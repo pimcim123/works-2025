@@ -7320,6 +7320,7 @@
   },
   "tconstruct:world/slime_collector": {
     "criteria": {
+      "magma_cream": "2025-08-26 08:52:00 +0000",
       "earth": "2025-08-26 04:53:25 +0000"
     },
     "done": false
@@ -7726,11 +7727,23 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "tconstruct:recipes/building_blocks/smeltery/scorched/nether_grout_multiple": {
     "criteria": {
-      "requirement": "2025-08-26 08:39:20 +0000"
+      "has_item": "2025-08-26 08:52:00 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-08-26 08:52:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/nether_grout": {
+    "criteria": {
+      "has_item": "2025-08-26 08:52:00 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
