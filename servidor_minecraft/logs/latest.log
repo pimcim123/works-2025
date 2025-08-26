@@ -1298,3 +1298,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [26Aug2025 08:51:07.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-478, y=16, z=-250} BlockPos{x=-483, y=15, z=-246}
 [26Aug2025 08:51:08.793] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-486, y=16, z=-245} BlockPos{x=-485, y=14, z=-242}
 [26Aug2025 08:51:09.036] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-486, y=16, z=-245} BlockPos{x=-489, y=15, z=-241}
+[26Aug2025 09:25:35.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Melosito_Neo a server operator
+[26Aug2025 09:25:39.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Creative Mode]
+[26Aug2025 09:25:42.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
