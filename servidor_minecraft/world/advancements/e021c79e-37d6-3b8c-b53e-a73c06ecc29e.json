@@ -7751,6 +7751,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/common/slime/earth/crystal_growing": {
+    "criteria": {
+      "has_dirt": "2025-08-26 09:51:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-08-26 08:52:00 +0000"
